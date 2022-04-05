@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TopSection = () => {
+const LineChart = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const TopSection = () => {
     );
 };
 
-export default TopSection;
+export default LineChart;
