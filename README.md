@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# XPS Reviews
+### Live site: (https://xps-review.netlify.app/)
+### What I have done in this project:
+* Added react router
+* Added 404 not found page
+* Added Line chart
+* Added Area chart
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
